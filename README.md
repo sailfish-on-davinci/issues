@@ -12,8 +12,8 @@ This is a community port, meaning that there is no official support and extensio
 
 ## How to install
 
-1. download sailfishos zip from [here](https://github.com/sailfish-on-ginkgo/issues/releases/).    
-2. download Lineageos 16.0 from [here](https://github.com/sailfish-on-ginkgo/issues/releases/).
+1. download sailfishos zip from [here](https://github.com/sailfish-on-davinci/main/releases/tag/0.5.0.0.43).    
+2. download Lineageos 16.0 from [here](https://github.com/sailfish-on-davinci/main/releases/tag/0.5.0.0.43).
 3. download twrp from [here](https://dl.twrp.me/davinci/), i perfet twrp-3.3.1-0-davinci.img.
 4. revert to android9 base miui, and install twrp.(Mine is davinci_images_V11.0.3.0.PFJCNXM_20190926.0000.00_9.0_cn)
 5. install Lineageos 16.0 and boot up to check if everything is ok.
@@ -66,7 +66,7 @@ This is a community port, meaning that there is no official support and extensio
 
 ## Issues
 
-https://github.com/sailfish-on-ginkgo/issues/issues
+https://github.com/sailfish-on-ginkgo/main/issues
 
 
 ## Buy me a coffee
